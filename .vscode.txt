@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": [
+    "C:/Users/divya_4fym83p/AppData/Local/Programs/Python/Python38/Lib/site-packages"
+  ]
+}
