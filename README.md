@@ -9,6 +9,6 @@ This project is a real-time sign language recognition system using a Convolution
 - Live prediction of hand signs (A–Z)
 - Overlay of predicted letter on video feed
 
-## output screenshot
+## Output
 ![Prediction Output](output.png.jpg)
 
